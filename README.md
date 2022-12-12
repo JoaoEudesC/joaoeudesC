@@ -1,14 +1,16 @@
 ## Hi there , i am João Eudes Carvalho
 
-
+<img align="center" alt="gif" height ="auto" width="100vw" src = "https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"/>
 
 - 🌱 I’m currently learning front end and back end (all)
 - 📫 How to reach me: joaoeudes91135538@gmail.com
 - 📫 How to reach me: joaoeudes25012000@gmail.com
 - 📫 How to reach me: +351 966 560 255
 - 🏠 lives in: Portugal - Leiria
+ 
 
 <div align="center">
+  
   <a href="https://github.com/JoaoEudesC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoEudesC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEudesC&layout=compact&langs_count=7&theme=dracula"/>
