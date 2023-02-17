@@ -2,7 +2,7 @@
 
 <img align="center" alt="gif" height ="auto" width="100vw" src = "https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"/>
 
-- 🌱 I’m currently learning front end and back end (all)
+- 🌱 I’m a full stack developer and i am searching for more ( i can´t choose between back and front, i love both)
 - 📫 How to reach me: joaoeudes91135538@gmail.com
 - 📫 How to reach me: joaoeudes25012000@gmail.com
 - 📫 How to reach me: +351 966 560 255
