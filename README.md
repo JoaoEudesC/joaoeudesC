@@ -1,6 +1,6 @@
 ## Hi there , i am João Eudes Carvalho
 
-<img align="center" alt="gif" height ="auto" width="100vw" src = "https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"/>
+<img align="center" alt="gif" height ="auto" width="100vw" src = "https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" loop autoplay/>
 
 - 🌱 I’m a full stack developer and i am searching for more ( i can´t choose between back and front, i love both)
 - 📫 How to reach me: joaoeudes91135538@gmail.com
