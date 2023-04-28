@@ -29,6 +29,7 @@
  <img align="center" alt="Joao-Mongodb" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
  <img align="center" alt="Joao-Sass" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Joao-express" height="60" width="60" src="https://img.icons8.com/nolan/256/express-js.png">
+   <img align="center" alt="Joao-docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
  
 </div>
 
